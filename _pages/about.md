@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I'm a proud Aggie Class of 2021 and 2026"
+title: "Sicong Huang's personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
