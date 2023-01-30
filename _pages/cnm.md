@@ -36,6 +36,6 @@ Medias I often use (Assignment 1)
     * Readings - 5%
       * Fiction - 5%
 
-_Sadly, I don't interact with the physical world, nor do I watch TV or read any physical book_
+_Sadly, I do not interact with the physical world, nor do I watch TV or read any physical book_
 
 My listing theme is oriented around device type -> medium type -> content/purpose. For devices, I only interact with either personal computing devices that carry desktop operating systems such as macbook and windows PC, or personal mobile devices such as iPad and cell phones. Then I categorize these interactions into readings, music, video, etc. as they have different websites/app I interact with. at last, I separate them further with my purpose/motivation. Where I sometimes do readings to get research literatures, whereas ocasssionally I watch videos just for fun. 
