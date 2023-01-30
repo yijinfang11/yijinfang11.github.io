@@ -14,7 +14,7 @@ Education
 * B.S. in Computer Science, Texas A&M University, 2021
 * Ph.D in Computer Science, Texas A&M University, 2026 (expected)
 
-(website still work in progress)
+(website still under construction)
 
 
 <!-- Work experience
