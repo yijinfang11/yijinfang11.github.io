@@ -36,4 +36,4 @@ Medias I often use (Assignment 1)
     * Readings - 5%
       * Fiction - 5%
 
-Sadly, I don't interact with physical worlds, nor do I watch TV or read any physical book
+Sadly, I don't interact with the physical world, nor do I watch TV or read any physical book
