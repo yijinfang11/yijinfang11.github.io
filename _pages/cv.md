@@ -15,6 +15,8 @@ Education
 * Ph.D in Computer Science, Texas A&M University, 2026 (expected)
 
 (website still work in progress)
+
+
 <!-- Work experience
 ======
 * Summer 2015: Research Assistant
