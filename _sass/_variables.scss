@@ -78,7 +78,7 @@ $body-color : #fff;
 $background-color : #fff;
 $code-background-color : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color : mix(#500000, $gray, 35%);
+$text-color : $darker-gray;
 $border-color : $lighter-gray;
 
 $primary-color : #7a8288;
@@ -88,7 +88,7 @@ $danger-color : #ee5f5b;
 $info-color : #52adc8;
 
 /* brands */
-$tamu-color : mix(#500000, $darker-gray, 75%);
+$tamu-color : mix(#500000, $darker-gray, 100%);
 $behance-color : #1769FF;
 $dribbble-color : #ea4c89;
 $facebook-color : #3b5998;
