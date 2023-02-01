@@ -4,7 +4,7 @@ title: "Accessible Computing HTML Hosting"
 permalink: /accessible_computing/
 author_profile: true
 redirect_from:
-/acessible_computing/
+ - /acessible_computing/
 ---
 
 {% include base_path %}
