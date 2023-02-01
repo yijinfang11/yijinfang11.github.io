@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-<<html>
+<html>
 <title>Test website!</title>
 <head>
 <style>
