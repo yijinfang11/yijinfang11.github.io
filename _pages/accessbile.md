@@ -36,7 +36,7 @@ p {
 
 <h2>Our favorite food</h2>
 
-<p>Amanda loves <a href=”https://www.seriouseats.com/persimmons”>persimmons</a>.</p>
+<p>Amanda loves <a href="https://www.seriouseats.com/persimmons">persimmons</a>.</p>
 <p>David loves apples.</p>
 
 <p>Sicong likes <a href="https://en.wikipedia.org/wiki/Dumpling">dumplings</a>.</p>
