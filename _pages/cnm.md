@@ -8,6 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+Link to [Assignment 2](../cnm2)
+
 CNM Statement (Assignment 1)
 ======
 A great achievemnt is only achieved until it's been told. With the evolving age of digital media, it's important to know and grasp the channels and powers of computers and new media to demonstrate the complexity and benefits of my hardworks and contributions. And mastering the digital medium is even more relevant in research works since broadcasting findings and sharing discoveries is the fundamental purpose of researches. 
@@ -39,3 +42,6 @@ Medias I often use (Assignment 1)
 My listing theme is oriented around device type -> medium type -> content/purpose. For devices, I only interact with either personal computing devices that carry desktop operating systems such as macbook and windows PC, or personal mobile devices such as iPad and cell phones. Then I categorize these interactions into readings, music, video, etc. as they have different websites/app I interact with. at last, I separate them further with my purpose/motivation. Where I sometimes do readings to get research literatures, whereas ocasssionally I watch videos just for fun. 
 
 Sadly, I do not interact with the physical world, nor do I watch TV or read any physical book
+
+
+Link to [Assignment 2](../cnm2)
