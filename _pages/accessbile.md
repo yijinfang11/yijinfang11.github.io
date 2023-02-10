@@ -1,9 +1,10 @@
 ---
 layout: archive
 title: "Accessible Computing HTML Hosting"
-permalink: /acessible_computing/
+permalink: /accessible_computing/
 author_profile: true
 redirect_from:
+ - /acessible_computing/
 ---
 
 {% include base_path %}
