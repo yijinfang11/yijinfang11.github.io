@@ -9,7 +9,7 @@ redirect_from:
 ---
 Brief Bio
 ======
-I'm a Machine Learning researcher dedicated on tackling real world clinical challenges such as cardiovascular diseases, hypertensions, and cardiac rehabitations. Harnessing the power of continous puslatile vitals from wearable sensors, I bring machine learning solutions precise to stakeholders, reproducible to colleagues, and robust across different cohorts. (still under constriction)
+I'm a Machine Learning researcher dedicated on tackling real world clinical challenges such as cardiovascular diseases, hypertensions, and cardiac rehabitations. Harnessing the power of continous puslatile vitals from wearable sensors, I bring machine learning solutions precise to stakeholders, reproducible to colleagues, and robust across different cohorts. (still under construction)
 
 I'm a proud member of [STMI lab](https://stmilab.github.io/team/), advised by Dr. Bobak Mortazavi. 
 
