@@ -23,6 +23,8 @@ main:
 
   - title: "CNM2"
     url: /cnm2/
+  - title: "Accessible Computing Assignments"
+    url: /accessible-computing/
 
   # - title: "Guide"
   #   url: /markdown/
