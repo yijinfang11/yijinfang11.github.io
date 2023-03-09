@@ -28,4 +28,7 @@ redirect_from:
 > ``` df -h ```
   * Use [du](https://linux.die.net/man/1/du) to check the `/data/datasets/` diectory
 > ``` du -sh /data/datasets/ ```
->
+
+* To find a file or directory from a scoped directory
+  * Use [find](https://www.cyberciti.biz/faq/howto-find-a-directory-linux-command/) to locate directories with keyword `MNIST` from `/data/datasets/` directory
+> ``` find /data/datasets/ -type d -name "MNIST" ```
