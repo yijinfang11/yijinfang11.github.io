@@ -1,31 +1,71 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# Sicong Huang
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+## About Me
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+I'm currently a pursuing PhD in Computer Science at Texas A&M University, a member of STMI lab, advised by Dr. Bobak Mortazavi.
 
-# Instructions
+I am a passionate and dedicated researcher specializing machine learning for clinical and remote health applications, with a primary focus on enhancing remote-sensing data quality, accurately monitoring cardiovascular diseases remotely, and tackling data heterogenity in clinical settings. I am driven by the potential of leveraging cutting-edge technology to make a positive impact on patient outcomes and revolutionize the way healthcare is delivered.
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+Specifically, I am deeply interested in time-series analysis and its application to cardiovascular data. By harnessing the power of machine learning algorithms, I aim to extract meaningful insights from complex pulsatile physiological signals, such as Photoplethysmography (PPG), bio impedance, and electrocardiograms (ECGs) to accurately monitor hemodynamic parameters and detect cardiovascular diseases. I am also interested in developing both data-driven and method(knowledge)-driven novel signal processing techniques to enhance the quality of remote-sensing data, to improve prediction of any downstream ML-infused remote health monitoring.
 
-See more info at https://academicpages.github.io/
+## Contributions and Open-Source Projects
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+- [ArterialNet](https://github.com/innoversa/ArterialNet/): We proposed a pre-training framework that can be combined with various seq2seq models to reconstruct arterial blood pressure using cuffless pulse signals (draft to BHI'23).
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+## Skills
 
-# Changelog -- bugfixes and enhancements
+- Programming Languages: **Python**, **C++**, **MATLAB**, C#, Java, SQL, Cypher, JavaScript, HTML/CSS, TypeScript
+- Backend Packages/Frameworks: **Pytorch**, **TF/Keras**, **Scikit-learn**, **Git**, **Weights&Bias (wandb)**, Pandas, Numpy, Matplotlib, Seaborn, Plotly
+- Other Packages/Frameworks: **React.js**, **.NET**, **Apptainer/Singularity/Docker**, **Django**, Neo4j, Node.js, JDBC, MongoDB, PostgreSQL, AWS, Azure
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+## Experience
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+- **Research Assistant**: Summer 2021 - present
+  - Texas A&M University
+  - Advisor: Dr. Bobak Mortazavi, [STMI Lab](https://stmilab.github.io/)
+  - Cuffless Blood Pressure Monitoring with wearables.
+  - Remote Cardiac Rehabilitation with wearables.
+
+- **Undergraduate Researcher**: Fall 2020 - Spring 2021
+  - Texas A&M University
+  - Advisor: Dr. Bobak Mortazavi, [STMI Lab](https://stmilab.github.io/)
+  - Inverse Metabolic Monitoring (IMM) from Continuous Glucose Monitoring (CGM).
+  - Twitter Sentiment Analysis with ML and natural language processing (NLP).
+
+- **Undergraduate Researcher**: Fall 2019 - Spring 2020
+  - Texas A&M University, [Information Innovation Lab](https://people.engr.tamu.edu/ajiang/index.html)
+  - Advisor: Dr. Anxiao Jiang
+  - "Looking down at phone" action Recognition with ML and computer vision (CV).
+
+- **Team Member**: Fall 2017 - Spring 2019
+  - Texas A&M University, Smart City Lab
+  - Mentor: Dr. Alireza Talebpour
+  - Member of Texas A&M AutoDrive team to the [SAE/GM AutoDrive Challenge](https://autodrivechallenge.com/)
+    - Wrote an API to establish synchronization between LiDAR and GPS for sensor fusion in year 1
+    - Led the UIUX team, developed a SaaS GUI using JavaScript and C++ on Unix platform in year 2
+
+## Education
+
+- PhD in Computer Science: 2021-2026 (expected)
+  - Texas A&M University
+  - Advisor: Dr. Bobak Mortazavi
+- BS in Computer Science: 2017-2021
+  - Texas A&M University
+  - Minor in Cybersecurity
+<!-- - Certification: [Certification](link-to-certification) -->
+<!-- - Online Course: [Course](link-to-course) -->
+
+## Contact
+
+- LinkedIn: [Sicong Huang](https://www.linkedin.com/in/sicong-huang-603462171/)
+- Personal Website: [Sicong Huang](https://innoversa.github.io/)
+- Email: siconghuang at tamu.edu
+
+<!-- ## Blog
+- [Your Technical Blog](link-to-blog) -->
+
+## Awards and Recognition
+
+- Second Place Overall: SAE/GM AutoDrive Challenge Year 1 Competition, Yuma, AZ (2018)
+- First Place in Obstacle Detection: SAE/GM AutoDrive Challenge Year 1 Competition, Yuma, AZ (2018)
+  
