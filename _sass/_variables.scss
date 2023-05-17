@@ -1,7 +1,7 @@
 /* ==========================================================================
    Variables
    ========================================================================== */
-
+@import url("https://fonts.googleapis.com/css?family=Atkinson+Hyperlegible:100,300,400,700");
 /*
    Typography
    ========================================================================== */
@@ -36,6 +36,7 @@ $helvetica : Helvetica,
 "Helvetica Neue",
 Arial,
 sans-serif;
+$atkinson : "Atkinson Hyperlegible", sans-serif;
 
 /* serif typefaces */
 $georgia : Georgia,
@@ -49,7 +50,7 @@ serif;
 $garamond : Garamond,
 serif;
 
-$global-font-family : $sans-serif;
+$global-font-family : $atkinson;
 $header-font-family : $sans-serif;
 $caption-font-family : $serif;
 
