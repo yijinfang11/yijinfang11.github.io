@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Sicong Huang's Personal Website"
+title: "Sicong's Page"
 title_separator: "-"
 name: &name "Sicong Huang"
 description: &description "PhD Student at TAMU"
