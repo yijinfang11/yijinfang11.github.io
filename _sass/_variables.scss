@@ -13,10 +13,12 @@ $paragraph-indent : false; // true, false (default)
 $indent-var : 1.3em;
 
 /* system typefaces */
+$atkinson : "Atkinson Hyperlegible";
 $serif : Georgia,
 Times,
 serif;
-$sans-serif : -apple-system,
+$sans-serif : $atkinson, 
+-apple-system,
 ".SFNSText-Regular",
 "San Francisco",
 "Roboto",
@@ -36,7 +38,6 @@ $helvetica : Helvetica,
 "Helvetica Neue",
 Arial,
 sans-serif;
-$atkinson : "Atkinson Hyperlegible", sans-serif;
 
 /* serif typefaces */
 $georgia : Georgia,
