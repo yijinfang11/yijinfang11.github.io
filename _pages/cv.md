@@ -11,7 +11,7 @@ redirect_from:
 
 ## Contributions and Open-Source Projects
 
-- [ArterialNet](https://github.com/innoversa/ArterialNet/): We proposed a pre-training framework that can be combined with various seq2seq models to reconstruct arterial blood pressure using cuffless pulse signals (draft to BHI'23).
+- [ArterialNet](https://github.com/stmilab/ArterialNet/): We proposed a pre-training framework that can be combined with various seq2seq models to reconstruct arterial blood pressure using cuffless pulse signals (draft to BHI'23).
 
 ## Skills
 
