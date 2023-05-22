@@ -1,6 +1,6 @@
 ---
 permalink: /cheatsheet/
-title: "Code Snippet Cheatsheet"
+title: "CODE SNIPPETS"
 author_profile: true
 redirect_from: 
   - /cheatsheet.html
