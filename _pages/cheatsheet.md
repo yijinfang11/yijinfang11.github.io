@@ -1,10 +1,12 @@
 ---
 permalink: /cheatsheet/
-title: "CODE SNIPPETS"
+title: "Code Snippets"
 author_profile: true
 redirect_from: 
   - /cheatsheet.html
 ---
+
+I use them to manage our lab's server all the time, so I put them here for easy reference.
 
 ## Unix Server Commands
 
