@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download one page **resume** here](../files/resume25July23.pdf)
+[Download one page **resume** here](../innoversa/files/resume25July23.pdf)
 
 ## Publications
 
@@ -57,7 +57,7 @@ redirect_from:
 - **Database Administrator and Software Engineer**: May 2020 - August 2020
   - [Nuvenu LLC (Tech Startup)](https://www.bizapedia.com/tx/nuvenu-llc.html), Fort Worth, TX
   - A social media platform that connects customers and local businesses across restaurants, bars, theatres, etc.
-  - Architected and Implemented a cloud graph database to handle relationships and connections among business, user, post, etc.
+  - Architected and Implemented a cloud graph database to store user interactions with businesses using Neo4j
   - Wrote RESTful APIs using .NET Core to enable the website to perform CRUD via HTTP requests to the database with MVC pattern and Agile development practice
   - Managed the project with Azure DevOps and deployed the website and database on Azure
 
