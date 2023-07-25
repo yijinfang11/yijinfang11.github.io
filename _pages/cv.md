@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+### [One Page Resume](./resume25July23.pdf)
+
 ## Publications
 
 - **Sicong Huang**, Roozbeh Jafari, and Bobak Mortazavi, *ArterialNet: Arterial Blood Pressure Reconstruction*, IEEE International Conference on Biomedical and Health Informatics (BHI), 2023 (acceptance rate: 24.5%)
