@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### [One Page Resume](./resume25July23.pdf)
+[One Page Resume](../files/resume25July23.pdf)
 
 ## Publications
 
