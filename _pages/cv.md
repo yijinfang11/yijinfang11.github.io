@@ -79,14 +79,19 @@ redirect_from:
 - Troubleshooted Win 10 and MacOS machines for customers
 - Refilled and troubleshooted varieties of printers
 
+## Invited Talks
+
+- **Towards automatic diet monitoring, Tutorial on Macronutrient Estimation with Machine Learning**, July 2023
+- [Research Experience for Undergraduates](https://engineering.tamu.edu/cse/research/reu/index.html), Texas A&M University
+
 ## AWARDS
 
-- [Year 1 Competition](https://www.sae.org/attend/student-events/autodrive-challenge/results) 
-  - SAE/GM AutoDrive Challenge, Yuma, AZ, May 2018
-  - First Place in Object Detection & Avoidance, Second Place in Overall Competition
-- [Year 2 Competition](https://www.sae.org/attend/student-events/autodrive-challenge/results)
-  - SAE/GM AutoDrive Challenge, MCity, Ann Arbor, MI, May 2019
+- [Year 2 Competition](https://www.sae.org/attend/student-events/autodrive-challenge/results), May 2019
+  - SAE/GM AutoDrive Challenge, MCity, Ann Arbor, MI
   - Third Place in Overall Competition
+- [Year 1 Competition](https://www.sae.org/attend/student-events/autodrive-challenge/results), May 2018
+  - SAE/GM AutoDrive Challenge, Yuma, AZ
+  - **First Place** in Object Detection & Avoidance, Second Place in Overall Competition
 
 ## Education
 
