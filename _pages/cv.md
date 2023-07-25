@@ -9,17 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+## Publications
+
+- **Sicong Huang**, Roozbeh Jafari, and Bobak Mortazavi, *ArterialNet: Arterial Blood Pressure Reconstruction*, IEEE International Conference on Biomedical and Health Informatics (BHI), 2023 (acceptance rate: 24.5%)
+- Lida Zhang, **Sicong Huang**, Anurag Das, Edmund Do, Namino Glantz, Wendy Bevier, Rony Santiago, David Kerr, Ricardo Gutierrez-Osuna, and Bobak Mortazavi, *Joint Embedding of Food Photographs and Blood Glucose for Improved Calorie Estimation*, IEEE International Conference on Biomedical and Health Informatics (BHI), 2023 (acceptance rate: 24.5%)
+
 ## Contributions and Open-Source Projects
 
 - [ArterialNet](https://github.com/stmilab/ArterialNet/): We proposed a pre-training framework that can be combined with various seq2seq models to reconstruct arterial blood pressure using cuffless pulse signals (draft to BHI'23).
 
 ## Skills
 
-- Programming Languages: **Python**, **C++**, **MATLAB**, C#, Java, SQL, Cypher, JavaScript, HTML/CSS, TypeScript
+- Programming Languages: **Python**, **MATLAB**, **C++**, C#, Java, SQL, Cypher, JavaScript, HTML/CSS, TypeScript
 - Backend Packages/Frameworks: **Pytorch**, **TF/Keras**, **Scikit-learn**, **Git**, **Weights&Bias (wandb)**, Pandas, Numpy, Matplotlib, Seaborn, Plotly
 - Other Packages/Frameworks: **React.js**, **.NET**, **Apptainer/Singularity/Docker**, **Django**, Neo4j, Node.js, JDBC, MongoDB, PostgreSQL, AWS, Azure
 
-## Experience
+## Research Experience
 
 - **Research Assistant**: Summer 2021 - present
   - Texas A&M University
