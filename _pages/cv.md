@@ -95,7 +95,7 @@ redirect_from:
 
 ## Education
 
-- PhD in Computer Science: 2021-2026 (expected)
+- PhD in Computer Science: 2021-2025 (expected)
   - Texas A&M University
   - Advisor: Dr. Bobak Mortazavi
 - BS in Computer Science: 2017-2021
