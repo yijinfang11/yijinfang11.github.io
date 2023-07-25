@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %}[Title]
 
-[Download one page **resume** here](../innoversa/files/resume25July23.pdf)
+[Download one page **resume** here](https://innoversa.github.io/innoversa/files/resume25July23.pdf)
 
 ## Publications
 
