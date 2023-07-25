@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download one page **resume** here](../files/resume25July23.pdf)
+[Download one page **resume** here](../innoversa/files/resume25July23.pdf)
 
 ## Publications
 
