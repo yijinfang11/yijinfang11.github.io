@@ -38,3 +38,8 @@ I use them to manage our lab's server all the time, so I put them here for easy 
 * To reload swap memory memory
   * Use [swapoff/swapon](https://www.redhat.com/sysadmin/clear-swap-linux#:~:text=To%20clear%20the%20swap%20memory,in%20swap%20and%20in%20RAM.) to switch on and off
 > ``` free -m; swapoff -a; swapon -a; free -m ```
+
+* Setting your 
+  * Use [nice](https://linux.die.net/man/1/nice) and [taskset](https://linux.die.net/man/1/taskset) to set your job's priority and CPU resource usage
+  * Making your job run with the lowest priority and only use the first 8 cores
+> ``` nice -n 19 taskset -c 0-7  [run your job here(i.e. python train.py)]```
