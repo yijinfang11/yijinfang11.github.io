@@ -45,7 +45,7 @@ Specifically, I am deeply interested in time-series analysis and its application
 - **Team Member**: November 2017 - May 2019
   - [Smart City Lab](http://smartct.tamu.edu/index.html), Texas A&M University
   - Mentor: Dr. Alireza Talebpour
-  - Member of Texas A&M AutoDrive team to the [SAE/GM AutoDrive Challenge](https://autodrivechallenge.com/)
+  - Member of Texas A&M AutoDrive team (12th Unmanned) to the [SAE/GM AutoDrive Challenge](https://autodrivechallenge.com/)
     - Wrote an API to establish synchronization between LiDAR and GPS for sensor fusion in year 1
     - Led the UIUX team, developed a SaaS GUI using JavaScript and C++ on Unix platform in year 2
 
