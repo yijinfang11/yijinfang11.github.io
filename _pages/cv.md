@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}[Title]
+{% include base_path %}
+<!-- [Curriculum Vitae] -->
 
 [Download page **resume** here](https://innoversa.github.io/innoversa/files/sicong_two_page_resume_081923.pdf)
 
