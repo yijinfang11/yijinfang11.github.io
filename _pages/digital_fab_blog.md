@@ -8,9 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Link to [master page](../digitfab)
-
-## MetaMaterial Progress
+## MetaMaterial Design (Plier)
 
 Designing a plier with meta material!
 
