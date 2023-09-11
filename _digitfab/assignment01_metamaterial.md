@@ -1,7 +1,7 @@
 ---
 title: "MetaMaterial Blogs"
 collection: digitfab
-permalink: /digitfab/metamaterials
+permalink: /digitfabblog/metamaterials
 venue: "University 1, Department"
 date: 2023-09-05
 ---
