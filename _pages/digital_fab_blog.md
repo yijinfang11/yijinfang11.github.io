@@ -42,4 +42,6 @@ Due to unknown issue, the edging and interior cells are not connected. I tried t
 
 Regardless, the printed plier is able to convert the force and firmly grip small objects
 ![printed_plier](<../images/digitfab/printed_plier.jpg>)
-![pliter_gripping](../images/digitfab/printed_plier_2.jpg)
+![plier_gripping](<../images/digitfab/printed_plier_2.jpg>)
+
+Thank you!
