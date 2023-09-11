@@ -13,7 +13,7 @@ Link to [Assignment 2](../cnm2)
 
 CNM Statement (Assignment 1)
 ======
-A great achievemnt is only achieved until it's been told. With the evolving age of digital media, it's important to know and grasp the channels and powers of computers and new media to demonstrate the complexity and benefits of my hardworks and contributions. And mastering the digital medium is even more relevant in research works since broadcasting findings and sharing discoveries is the fundamental purpose of researches. 
+A great achievemnt is only achieved until it's been told. With the evolving age of digital media, it's important to know and grasp the channels and powers of computers and new media to demonstrate the complexity and benefits of my hardworks and contributions. And mastering the digital medium is even more relevant in research works since broadcasting findings and sharing discoveries is the fundamental purpose of researches.
 
 Researchers like me often miss the importance of presentation because we all love to dive deep and contest the most complex and difficult challenges unsolved. However, without the proper abilities to share the our knowledges, it becomes meaningless if they become the only people who understand and able to use them. I believe taking the class can sharpen my ways of information presentation and broadcasting, so that I can make my contributions more impactful. 
 
