@@ -14,7 +14,7 @@ Link to [master page](../digitfab)
 
 Designing a plier with meta material!
 
-[final_plier](<../images/digitfab/final_view.png>)
+![final_plier](<../images/digitfab/final_view.png>)
 
 ### Designing cells
 
@@ -44,5 +44,4 @@ Due to unknown issue, the edging and interior cells are not connected. I tried t
 
 Regardless, the printed plier is able to convert the force and firmly grip small objects
 ![printed_plier](<../images/digitfab/printed_plier.jpg>)
-![pliter_gripping](<../images/digitfab/printed_plier_2.jpg>)
-
+![pliter_gripping](../images/digitfab/printed_plier_2.jpg)
