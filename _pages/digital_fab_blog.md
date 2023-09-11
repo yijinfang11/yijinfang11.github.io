@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
+This blog illustrates my progress with building a plier with metamaterial cells.
+
 ## MetaMaterial Design (Plier)
 
 Designing a plier with meta material!
