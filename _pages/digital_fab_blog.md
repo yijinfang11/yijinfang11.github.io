@@ -15,7 +15,8 @@ This blog illustrates my progress with building a plier with metamaterial cells.
 1. [MetaMaterial Design (Plier)](#metamaterial-design-plier)
 2. [Growing Hairs](#growing-hairs)
 3. [Kerf Pattern with Fusion 360](#kerf-pattern-with-fusion-360)
-4. [End of Page](#thank-you)
+4. [X-bridge Replication](#x-bridge-replication)
+5. [End of Page](#thank-you)
 
 
 ## MetaMaterial Design (Plier)
