@@ -81,26 +81,30 @@ Regardless, the printed plier is able to convert the force and firmly grip small
 
 ### Loading the provided triangular kerf template
 
-![](<../images/digitfab/kerf_1.png>)
+![triangle template](<../images/digitfab/kerf_1.png>)
 
-### 
+### Adding the connection circle sketch
 
-![Adding Hair](<../images/digitfab/kerf_2.png>)
+![circle sketch](<../images/digitfab/kerf_2.png>)
 
-### Visually examining whether the hair is propoerly added
+### Extruding a triangular kerf and a circle 
 
 ![Visual Examine](<../images/digitfab/kerf_3.png>)
 
-### Verifying the hair in G-Code
+### Extending the sketch design to 4 triangular kerfs
 
-![G-code Examine](<../images/digitfab/kerf_4.png>)
+![final sketch](<../images/digitfab/kerf_4.png>)
 
-### Confirming the setup with 3D Cura (due to excused absence, I did not get to print out the hairs)
+### Extruding the sketch to create the stl file
 
-![Slicing Benchy](<../images/digitfab/kerf_5.png>)
+![final extrusion](<../images/digitfab/kerf_5.png>)
+
+### Final printed product
+
+![final product](<../images/digitfab/kerf_6.png>)
 
 ## X-Bridge Replication
 
-Please click here for [X-Bridge Replication](https://people.tamu.edu/~yijinfang/csce689/Xbridge.html)
+Replicating bridges was a collaborative effort, please click here for [X-Bridge Replication](https://people.tamu.edu/~yijinfang/csce689/Xbridge.html)
 
 ## Thank you!
