@@ -13,8 +13,9 @@ This blog illustrates my progress with building a plier with metamaterial cells.
 # Table of Contents
 
 1. [MetaMaterial Design (Plier)](#metamaterial-design-plier)
-2. [License](#license)
-3. [End of Page](#thank-you)
+2. [Growing Hairs](#growing-hairs)
+3. [Kerf Pattern with Fusion 360](#kerf-pattern-with-fusion-360)
+4. [End of Page](#thank-you)
 
 
 ## MetaMaterial Design (Plier)
@@ -55,7 +56,7 @@ Regardless, the printed plier is able to convert the force and firmly grip small
 ![plier_gripping](<../images/digitfab/printed_plier_2.jpg>)
 
 
-## Growing hairs
+## Growing Hairs
 
 ### Slicing an existing STL file into g-code file
 
@@ -77,7 +78,7 @@ Regardless, the printed plier is able to convert the force and firmly grip small
 
 ![Final Product](<../images/digitfab/hair_5.png>)
 
-## Curved Pattern with Fusion 360
+## Kerf Pattern with Fusion 360
 
 ### Loading the provided triangular kerf template
 
