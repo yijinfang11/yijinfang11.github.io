@@ -75,10 +75,29 @@ Regardless, the printed plier is able to convert the force and firmly grip small
 
 ### Confirming the setup with 3D Cura (due to excused absence, I did not get to print out the hairs)
 
-![Slicing Benchy](<../images/digitfab/hair_1.png>)
+![Final Product](<../images/digitfab/hair_5.png>)
 
 ## Curved Pattern with Fusion 360
 
+### Loading the provided triangular kerf template
+
+![](<../images/digitfab/kerf_1.png>)
+
+### 
+
+![Adding Hair](<../images/digitfab/kerf_2.png>)
+
+### Visually examining whether the hair is propoerly added
+
+![Visual Examine](<../images/digitfab/kerf_3.png>)
+
+### Verifying the hair in G-Code
+
+![G-code Examine](<../images/digitfab/kerf_4.png>)
+
+### Confirming the setup with 3D Cura (due to excused absence, I did not get to print out the hairs)
+
+![Slicing Benchy](<../images/digitfab/kerf_5.png>)
 
 ## X-Bridge Replication
 
