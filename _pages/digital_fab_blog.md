@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "MetaMaterial Blogs"
-permalink: /digitfab_metamaterials/
+permalink: /digitfab/
 author_profile: true
 redirect_from:
 ---
@@ -9,6 +9,13 @@ redirect_from:
 {% include base_path %}
 
 This blog illustrates my progress with building a plier with metamaterial cells.
+
+# Table of Contents
+
+1. [MetaMaterial Design (Plier)](#metamaterial-design-plier)
+2. [License](#license)
+3. [End of Page](#thank-you)
+
 
 ## MetaMaterial Design (Plier)
 
@@ -47,4 +54,34 @@ Regardless, the printed plier is able to convert the force and firmly grip small
 ![printed_plier](<../images/digitfab/printed_plier.jpg>)
 ![plier_gripping](<../images/digitfab/printed_plier_2.jpg>)
 
-Thank you!
+
+## Growing hairs
+
+### Slicing an existing STL file into g-code file
+
+![Slicing Benchy](<../images/digitfab/hair_1.png>)
+
+### After identifying a good position, modifying G-code file to add hairs
+
+![Adding Hair](<../images/digitfab/hair_2.png>)
+
+### Visually examining whether the hair is propoerly added
+
+![Visual Examine](<../images/digitfab/hair_3.png>)
+
+### Verifying the hair in G-Code
+
+![G-code Examine](<../images/digitfab/hair_4.png>)
+
+### Confirming the setup with 3D Cura (due to excused absence, I did not get to print out the hairs)
+
+![Slicing Benchy](<../images/digitfab/hair_1.png>)
+
+## Curved Pattern with Fusion 360
+
+
+## X-Bridge Replication
+
+Please click here for [X-Bridge Replication](https://people.tamu.edu/~yijinfang/csce689/Xbridge.html)
+
+## Thank you!
