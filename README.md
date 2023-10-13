@@ -74,9 +74,9 @@ Specifically, I am deeply interested in time-series analysis and its application
   - Created and pilot tested the training program
 
 - **Student Worker**, Dec 2017 – Dec 2018
-- [Open Access Labs](https://oal.tamu.edu/About-Us/OAL-Staff), Texas A&M University
-- Troubleshooted Win 10 and MacOS machines for customers
-- Refilled and troubleshooted varieties of printers
+  - [Open Access Labs](https://oal.tamu.edu/About-Us/OAL-Staff), Texas A&M University
+  - Troubleshoot Win 10 and MacOS machines for customers
+  - Refilled and troubleshooted varieties of printers
 
 ## Education
 
@@ -92,7 +92,7 @@ Specifically, I am deeply interested in time-series analysis and its application
 ## Contact
 
 - LinkedIn: [Sicong Huang](https://www.linkedin.com/in/sicong-huang-603462171/)
-- Personal Website: [Sicong Huang](https://innoversa.github.io/)
+- Personal Website: [Sicong Huang](https://innoversa.github.io/innoversa)
 - Email: siconghuang at tamu.edu
 
 ## Invited Talks
