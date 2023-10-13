@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-This blog illustrates my progress with building a plier with metamaterial cells.
+This blog illustrates my progress in CSCE-689 Digital Fabrication of Fall 2023, taught by [Dr. Jeeeun Kim](http://www.jeeeunkim.com/).
 
 # Table of Contents
 
