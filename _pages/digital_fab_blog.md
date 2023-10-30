@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-This blog illustrates my progress with building a plier with metamaterial cells.
+This blog is used to track my progress in CSCE-689 Digitial Fabrication with Dr. Jeeeun Kim.
 
 # Table of Contents
 
@@ -16,7 +16,8 @@ This blog illustrates my progress with building a plier with metamaterial cells.
 2. [Growing Hairs](#growing-hairs)
 3. [Kerf Pattern with Fusion 360](#kerf-pattern-with-fusion-360)
 4. [X-bridge Replication](#x-bridge-replication)
-5. [End of Page](#thank-you)
+5. [Resin Printing](#resin-printing)
+6. [End of Page](#thank-you)
 
 
 ## MetaMaterial Design (Plier)
@@ -108,5 +109,53 @@ Regardless, the printed plier is able to convert the force and firmly grip small
 ## X-Bridge Replication
 
 Replicating bridges was a collaborative effort, please click here for [X-Bridge Replication](https://people.tamu.edu/~yijinfang/csce689/Xbridge.html)
+
+## Resin Printing
+
+### Configuring ChituBox
+
+We downloaded and installed chitubox from official website
+Then we followed Emory's recommendation to configure the settings
+![chitubox_config](<../images/digitfab/resin_print/chitubox_config.jpg>)
+
+### Finding a sample STL file (Electro Gnosis from Genshin Impact)
+
+We identified a "electro gnosis" chess piece from [thingiverse](https://www.thingiverse.com/thing:5662266)
+
+![chess_piece](<../images/digitfab/resin_print/gnosis_thingiverse.png>)
+
+### Modifying and Exporting the Electro Gnosis
+
+We first scale the gnosis
+
+![scaling_gnosis](<../images/digitfab/resin_print/scaling_gnosis.png>)
+
+Then we added a base and support to the gnosis
+
+![adding_support](<../images/digitfab/resin_print/adding_support.png>)
+
+Finally, we slice and export the LCD-printer ready file
+
+![slicing_exporting](<../images/digitfab/resin_print/slicing_exporting.png>)
+
+### Printing the Gnosis
+
+We first prepare the LCD printer and load the file into the printer
+
+![loading_print](<../images/digitfab/resin_print/loading_print.png>)
+
+Our First Attempt failed, we suspect it was due to small size
+
+![first_attempt](<../images/digitfab/resin_print/first_attempt.jpg>)
+
+However, with re-scaled size, the same problem occured
+
+![second_attempt](<../images/digitfab/resin_print/second_attempt.jpg>)
+
+### Conclusion
+
+Seems like the base was not properly formed, we will try to fix the issue by not lifting the gnosis at all
+
+![examine_fail](<../images/digitfab/resin_print/examine_fail.jpg>)
 
 ## Thank you!
