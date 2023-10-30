@@ -8,7 +8,12 @@ redirect_from:
 
 {% include base_path %}
 
+<<<<<<< HEAD
 This blog is used to track my progress in CSCE-689 Digitial Fabrication with Dr. Jeeeun Kim.
+=======
+
+This blog illustrates my progress in CSCE-689 Digital Fabrication of Fall 2023, taught by [Dr. Jeeeun Kim](http://www.jeeeunkim.com/).
+>>>>>>> b24feca0806774bc3e4b8aa5fcf40aa4af011612
 
 # Table of Contents
 
@@ -18,7 +23,6 @@ This blog is used to track my progress in CSCE-689 Digitial Fabrication with Dr.
 4. [X-bridge Replication](#x-bridge-replication)
 5. [Resin Printing](#resin-printing)
 6. [End of Page](#thank-you)
-
 
 ## MetaMaterial Design (Plier)
 
@@ -57,7 +61,6 @@ Regardless, the printed plier is able to convert the force and firmly grip small
 ![printed_plier](<../images/digitfab/printed_plier.jpg>)
 ![plier_gripping](<../images/digitfab/printed_plier_2.jpg>)
 
-
 ## Growing Hairs
 
 ### Slicing an existing STL file into g-code file
@@ -90,7 +93,7 @@ Regardless, the printed plier is able to convert the force and firmly grip small
 
 ![circle sketch](<../images/digitfab/kerf_2.png>)
 
-### Extruding a triangular kerf and a circle 
+### Extruding a triangular kerf and a circle
 
 ![Visual Examine](<../images/digitfab/kerf_3.png>)
 
