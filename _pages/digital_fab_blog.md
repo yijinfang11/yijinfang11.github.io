@@ -115,6 +115,7 @@ Replicating bridges was a collaborative effort, please click here for [X-Bridge 
 
 We downloaded and installed chitubox from official website
 Then we followed Emory's recommendation to configure the settings
+
 ![chitubox_config](<../images/digitfab/resin_print/chitubox_config.jpg>)
 
 ### Finding a sample STL file (Electro Gnosis from Genshin Impact)
