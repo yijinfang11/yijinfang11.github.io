@@ -8,12 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
-<<<<<<< HEAD
-This blog is used to track my progress in CSCE-689 Digitial Fabrication with Dr. Jeeeun Kim.
-=======
 
 This blog illustrates my progress in CSCE-689 Digital Fabrication of Fall 2023, taught by [Dr. Jeeeun Kim](http://www.jeeeunkim.com/).
->>>>>>> b24feca0806774bc3e4b8aa5fcf40aa4af011612
 
 # Table of Contents
 
