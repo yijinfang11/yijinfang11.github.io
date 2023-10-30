@@ -142,7 +142,7 @@ Finally, we slice and export the LCD-printer ready file
 
 We first prepare the LCD printer and load the file into the printer
 
-![loading_print](<../images/digitfab/resin_print/loading_print.png>)
+![loading_print](<../images/digitfab/resin_print/loading_print.jpg>)
 
 Our First Attempt failed, we suspect it was due to small size
 
