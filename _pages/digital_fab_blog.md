@@ -152,10 +152,14 @@ However, with re-scaled size, the same problem occured
 
 ![second_attempt](<../images/digitfab/resin_print/second_attempt.jpg>)
 
-### Conclusion
-
 Seems like the base was not properly formed, we will try to fix the issue by not lifting the gnosis at all
 
 ![examine_fail](<../images/digitfab/resin_print/examine_fail.jpg>)
+
+### Third Attempt
+
+We not only made the gnosis stick to the ground, but also doubled both base layer and exposure time
+
+![final_print](<../images/digitfab/resin_print/final_print.jpg>)
 
 ## Thank you!
