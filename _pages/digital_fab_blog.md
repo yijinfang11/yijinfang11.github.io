@@ -8,10 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
-
 This blog illustrates my progress in CSCE-689 Digital Fabrication of Fall 2023, taught by [Dr. Jeeeun Kim](http://www.jeeeunkim.com/).
 
-# Table of Contents
+## Table of Contents
 
 1. [MetaMaterial Design (Plier)](#metamaterial-design-plier)
 2. [Growing Hairs](#growing-hairs)
