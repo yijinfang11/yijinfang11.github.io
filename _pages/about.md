@@ -8,13 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-## Sicong Huang
-
 I'm Sicong Huang, a proud member of [STMI lab](https://stmilab.github.io/team/), advised by Dr. Bobak Mortazavi.
 
 ## Table of Contents
 
-- [Sicong Huang](#sicong-huang)
 - [Table of Contents](#table-of-contents)
 - [About Me](#about-me)
 - [Contact](#contact)
