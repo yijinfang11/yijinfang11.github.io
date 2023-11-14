@@ -1,5 +1,18 @@
 # Sicong Huang
 
+## Table of Contents
+- [Sicong Huang](#sicong-huang)
+  - [Table of Contents](#table-of-contents)
+  - [About Me](#about-me)
+  - [Publications](#publications)
+  - [Contributions and Open-Source Projects](#contributions-and-open-source-projects)
+  - [Skills](#skills)
+  - [Research Experience](#research-experience)
+  - [Work Experience](#work-experience)
+  - [Education](#education)
+  - [Contact](#contact)
+  - [Invited Talks](#invited-talks)
+  - [AWARDS](#awards)
 ## About Me
 
 I'm currently a pursuing PhD in Computer Science at Texas A&M University, a member of STMI lab, advised by Dr. Bobak Mortazavi.
