@@ -17,14 +17,15 @@ I'm Sicong Huang, a proud member of [STMI lab](https://stmilab.github.io/team/),
 - [Sicong Huang](#sicong-huang)
 - [Table of Contents](#table-of-contents)
 - [About Me](#about-me)
-- [Publications](#publications)
-- [Contributions and Open-Source Projects](#contributions-and-open-source-projects)
-- [Skills](#skills)
+- [Contact](#contact)
+- [Education](#education)
 - [Research Experience](#research-experience)
 - [Work Experience](#work-experience)
-- [Education](#education)
-- [Contact](#contact)
-- [Invited Talks](#invited-talks)
+- [Publications](#publications)
+- [Contributions and Open-Source Projects](#contributions-and-open-source-projects)
+- [Workshops and Invited Talks](#workshops-and-invited-talks)
+- [Skills](#skills)
+- [Professional Service](#professional-service)
 - [AWARDS](#awards)
 - [Thank You](#thank-you)
 
@@ -36,20 +37,21 @@ I am a passionate and dedicated researcher specializing machine learning for cli
 
 Specifically, I am deeply interested in time-series analysis and its application to cardiovascular data. By harnessing the power of machine learning algorithms, I aim to extract meaningful insights from complex pulsatile physiological signals, such as Photoplethysmography (PPG), bio impedance, and electrocardiograms (ECGs) to accurately monitor hemodynamic parameters and detect cardiovascular diseases. I am also interested in developing both data-driven and method(knowledge)-driven novel signal processing techniques to enhance the quality of remote-sensing data, to improve prediction of any downstream ML-infused remote health monitoring.
 
-## Publications
+## Contact
 
-- **Sicong Huang**, Roozbeh Jafari, and Bobak Mortazavi, *ArterialNet: Arterial Blood Pressure Reconstruction*, IEEE International Conference on Biomedical and Health Informatics (BHI), 2023 (acceptance rate: 24.5%)
-- Lida Zhang, **Sicong Huang**, Anurag Das, Edmund Do, Namino Glantz, Wendy Bevier, Rony Santiago, David Kerr, Ricardo Gutierrez-Osuna, and Bobak Mortazavi, *Joint Embedding of Food Photographs and Blood Glucose for Improved Calorie Estimation*, IEEE International Conference on Biomedical and Health Informatics (BHI), 2023 (acceptance rate: 24.5%)
+- LinkedIn: [Sicong Huang](https://www.linkedin.com/in/sicong-huang-603462171/)
+- Personal Website: [Sicong Huang](https://innoversa.github.io/innoversa)
+- Email: siconghuang at tamu.edu
 
-## Contributions and Open-Source Projects
+## Education
 
-- [ArterialNet](https://github.com/stmilab/ArterialNet/): We proposed a pre-training framework that can be combined with various seq2seq models to reconstruct arterial blood pressure using cuffless pulse signals (draft to BHI'23).
-
-## Skills
-
-- Programming Languages: **Python**, **MATLAB**, LaTeX, R, **C++**, C#, Java, SQL, Cypher, JavaScript, JMP, TypeScript
-- Tools/Packages: **Pytorch**, **Scikit-learn**, **Git**, **Weights&Bias (wandb)**, **TF/Keras**,Pandas, Numpy, Matplotlib, Seaborn, Plotly
-- Technologies/Frameworks: **Linux**, **.NET**, **Apptainer/Singularity/Docker**, Version Control, .NET, CI/CD, Scrum/Agile,  Cloud Computing (AWS & Azure), Distributed Computing, Neo4j, Node.js, JDBC, MongoDB, PostgreSQL
+- Doctor of Philosophy (PhD) in **Computer Science**: 2021-2025 (expected)
+  - Texas A&M University
+  - Advisor: Dr. Bobak Mortazavi
+- Bachelor of Science (BS) in **Computer Science**: 2017-2021
+  - Texas A&M University
+  - Magna Cum Laude
+  - Minor in Cybersecurity
 
 ## Research Experience
 
@@ -106,29 +108,40 @@ Specifically, I am deeply interested in time-series analysis and its application
   - Troubleshoot Win 10 and MacOS machines for customers
   - Refilled and troubleshooted varieties of printers
 
-## Education
+## Publications
 
-- PhD in Computer Science: 2021-2025 (expected)
-  - Texas A&M University
-  - Advisor: Dr. Bobak Mortazavi
-- BS in Computer Science: 2017-2021
-  - Texas A&M University
-  - Minor in Cybersecurity
-<!-- - Certification: [Certification](link-to-certification) -->
-<!-- - Online Course: [Course](link-to-course) -->
+- **Sicong Huang**, Roozbeh Jafari, and Bobak Mortazavi, *ArterialNet: Arterial Blood Pressure Reconstruction*, IEEE International Conference on Biomedical and Health Informatics (BHI), 2023 (Accepted with oral: 12%)
+- Lida Zhang, **Sicong Huang**, Anurag Das, Edmund Do, Namino Glantz, Wendy Bevier, Rony Santiago, David Kerr, Ricardo Gutierrez-Osuna, and Bobak Mortazavi, *Joint Embedding of Food Photographs and Blood Glucose for Improved Calorie Estimation*, IEEE International Conference on Biomedical and Health Informatics (BHI), 2023 (Accepted with oral: 12%)
 
-## Contact
+## Contributions and Open-Source Projects
 
-- LinkedIn: [Sicong Huang](https://www.linkedin.com/in/sicong-huang-603462171/)
-- Personal Website: [Sicong Huang](https://innoversa.github.io/innoversa)
-- Email: siconghuang at tamu.edu
+- [ArterialNet](https://github.com/stmilab/ArterialNet/): We proposed a pre-training framework that can be combined with various seq2seq models to reconstruct arterial blood pressure using cuffless pulse signals (draft to BHI'23).
 
-## Invited Talks
+## Workshops and Invited Talks
 
-- **Towards automatic diet monitoring, Tutorial on Macronutrient Estimation with Machine Learning**, July 2023
-- [Research Experience for Undergraduates](https://engineering.tamu.edu/cse/research/reu/index.html), Texas A&M University
+- IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI 2023), Oct 2023
+  - Workshop on Unraveling Challenges in Time Series Analysis with Open Source Tools for Digital Health Applications
+  - Judge for BHI 2023 Data Challenge Competition (Phase 2)
+
+- [Research Experience for Undergraduates](https://engineering.tamu.edu/cse/research/reu/index.html) at Texas A&M University, Jul 2023
+  - **Towards automatic diet monitoring, Tutorial on Macronutrient Estimation with Machine Learning**
+
+## Skills
+
+- Programming Languages: **Python**, **MATLAB**, **C++**, LaTeX, R, C#, Java, SQL, Cypher, JavaScript, JMP, TypeScript
+- Tools/Packages: **Pytorch**, **Scikit-learn**, **Git**, **Weights&Bias (wandb)**, **TF/Keras**,Pandas, Numpy, Matplotlib, Seaborn, Plotly
+- Technologies/Frameworks: **Linux**, **.NET**, **Apptainer/Singularity/Docker**, Version Control, .NET, CI/CD, Scrum/Agile,  Cloud Computing (AWS & Azure), Distributed Computing, Neo4j, Node.js, JDBC, MongoDB, PostgreSQL
+
+## Professional Service
+
+- Reviewer: ACM Transactions on Computing for Healthcare (ACM HEALTH), 2023
 
 ## AWARDS
+
+- BHI NSF Student Travel Award, Oct 2023
+  - IEEE International Conference on Biomedical and Health Informatics (BHI), 2023
+- BSN NSF Student Travel Award, Oct 2023
+  - IEEE International Conference on Body Sensor Networks (BSN), 2023
 
 - [Year 2 Competition](https://www.sae.org/attend/student-events/autodrive-challenge/results), May 2019
   - SAE/GM AutoDrive Challenge, MCity, Ann Arbor, MI
@@ -137,6 +150,6 @@ Specifically, I am deeply interested in time-series analysis and its application
   - SAE/GM AutoDrive Challenge, Yuma, AZ
   - **First Place** in Object Detection & Avoidance, Second Place in Overall Competition
 
-Please go to my [GitHub profile](https://github.com/Innoversa) to learn more about me.
-
 ## Thank You
+
+Please go to my [GitHub profile](https://github.com/Innoversa) to learn more about me.
