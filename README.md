@@ -110,7 +110,7 @@ Specifically, I am deeply interested in time-series analysis and its application
 
 ## Workshops and Invited Talks
 
-- IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI 2023), Oct 2023
+- IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI), Oct 2023
   - Workshop on Unraveling Challenges in Time Series Analysis with Open Source Tools for Digital Health Applications
   - Judge for BHI 2023 Data Challenge Competition (Phase 2)
 
