@@ -16,7 +16,7 @@ I'm Sicong Huang, a proud member of [STMI lab](https://stmilab.github.io/team/),
   - [Workshops and Invited Talks](#workshops-and-invited-talks)
   - [Skills](#skills)
   - [Professional Service](#professional-service)
-  - [AWARDS](#awards)
+  - [Awards](#awards)
   - [Thank You](#thank-you)
 
 ## About Me
@@ -135,7 +135,7 @@ Specifically, I am deeply interested in time-series analysis and its application
 
 - Reviewer: ACM Transactions on Computing for Healthcare (ACM HEALTH), 2023
 
-## AWARDS
+## Awards
 
 - BHI NSF Student Travel Award, Oct 2023
   - IEEE International Conference on Biomedical and Health Informatics (BHI), 2023
