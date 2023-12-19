@@ -84,7 +84,7 @@ author:
   location: "Houston, TX"
   employer:
   pubmed:
-  googlescholar:
+  googlescholar: "https://scholar.google.com/citations?hl=en&user=HtWJoOsAAAAJ"
   email: "siconghuang<at>tamu.edu"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
@@ -101,7 +101,7 @@ author:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
   linkedin: "sicong-huang-603462171"
-  orcid:
+  orcid: "https://orcid.org/0009-0009-3596-5244"
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
