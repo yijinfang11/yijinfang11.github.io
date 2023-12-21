@@ -1,10 +1,10 @@
-# HOWDY
+# Howdy
 
 I'm Sicong Huang, a proud member of [STMI lab](https://stmilab.github.io/team/), advised by Dr. Bobak Mortazavi.
 
 ## Table of Contents
 
-- [HOWDY](#howdy)
+- [Howdy](#howdy)
   - [Table of Contents](#table-of-contents)
   - [About Me](#about-me)
   - [Contact](#contact)
