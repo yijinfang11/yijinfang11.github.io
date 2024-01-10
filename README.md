@@ -113,7 +113,8 @@ Specifically, I am deeply interested in time-series analysis and its application
 
 ## Contributions and Open-Source Projects
 
-- [ArterialNet](https://github.com/stmilab/ArterialNet/): We proposed a pre-training framework that can be combined with various seq2seq models to reconstruct arterial blood pressure using cuffless pulse signals (draft to BHI'23).
+- [ArterialNet](https://github.com/stmilab/ArterialNet/): We proposed a pre-training framework that can be combined with various seq2seq models to reconstruct arterial blood pressure using cuffless pulse signals (Accepted in BHI'23).
+- [Calorie Prediction with Joint Embedding](https://github.com/stmilab/joint_embedding_calorie_prediction): We demonstrated that jointly embedding post prandial glucose response data and food image data will elevate food calorie estimation.(Accepted in BHI'23).
 
 ## Workshops and Invited Talks
 
@@ -134,6 +135,7 @@ Specifically, I am deeply interested in time-series analysis and its application
 ## Professional Service
 
 - Reviewer: ACM Transactions on Computing for Healthcare (ACM HEALTH), 2023
+- Reviewer: NPJ Biosensing, 2023
 
 ## Awards
 
