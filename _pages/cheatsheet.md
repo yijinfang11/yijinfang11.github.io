@@ -13,12 +13,12 @@ I use them to manage our lab's server all the time, so I put them here for easy 
 - Use [setfacl](https://linux.die.net/man/1/setfacl) to control file access groups
 
   - Grant `siconghuang` _read_, _write_, and _execute_ access to the `/data/datasets/` directory
-    > `setfacl -R -m u:siconghuang:rwx /data/datasets/ `
+    > `setfacl -R -m u:siconghuang:rwx /data/datasets/`
 
 - Use [tmux](https://tmuxcheatsheet.com/) to create a persistent window for long experiments or persistent processes
 
   - Create a new persistent window named `sicong`
-    > ` tmux new -s sicong`
+    > `tmux new -s sicong`
   - Detach from a persistent window
     > Press `Ctrl` + `B`, then press `D`
   - list all existing persistent windows
@@ -48,9 +48,9 @@ I use them to manage our lab's server all the time, so I put them here for easy 
 
   - Use [nice](https://linux.die.net/man/1/nice) and [taskset](https://linux.die.net/man/1/taskset) to set your job's priority and CPU resource usage
   - Making your job run with the lowest priority and only use the first 8 cores
-    > ` nice -n 19 taskset -c 0-7  [run your job here(i.e. python train.py)]`
+    > `nice -n 19 taskset -c 0-7  [run your job here(i.e. python train.py)]`
 
 - To send files/data to another server
   - Use [scp](https://linux.die.net/man/1/scp) to send files from your current machine/server to another
   - Securely sending your `saved_models` directory to your home directory on another server
-    > ` scp -r ~/saved_models/ [username]]@[server address]:~`
+    > `scp -r ~/saved_models/ [username]@[server address]:~`
