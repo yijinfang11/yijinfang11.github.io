@@ -23,7 +23,7 @@ I'm Yijin Fang
 - [Thank You](#thank-you)
 
 <details>
-<summary> About Me </summary>
+<summary> ## About Me </summary>
 
 dasdasdasdasd
 </details>
