@@ -22,19 +22,25 @@ I'm Yijin Fang
 - [Awards](#awards)
 - [Thank You](#thank-you)
 
+<details>
+<summary> About Me </summary>
+
+dasdasdasdasd
+</details>
 ## About Me
 
 ## Contact
 
 - LinkedIn: [Yijin Fang](https://www.linkedin.com/in/yijinfang/)
 - Personal Website: [Yijin Fang](https://yijinfang11.github.io/ )
-- Email: siconghuang at tamu.edu
+- Email: yijinfang@tamu.edu
 
 ## Education
 
 - Master of **Computer Science**: 2022-2024
   - Texas A&M University
   - GPA: 3.78
+
 - Bachelor of Science (BS) in **Computer Science**: 2018-2022
   - Texas A&M University
   - Magna Cum Laude
@@ -45,19 +51,20 @@ I'm Yijin Fang
 ## Work Experience
 
 - **Student Technician**: August 2022 - May 2023
-
-  -
-  -
+  - Texas A&M University
+  - CSCE 222
+  - CSCE 314
 
 - **Teacher Asistant**: August 2023 - May 2024
-
-  -
+  - Texas A&M University
+  - CSCE 222
+  - CSCE 482
 
 ## Skills
 
-- Programming Languages: **Python**, **MATLAB**, **C++**, LaTeX, R, C#, Java, SQL, Cypher, JavaScript, JMP, TypeScript
-- Tools/Packages: **Pytorch**, **Scikit-learn**, **Git**, **Weights&Bias (wandb)**, **TF/Keras**,Pandas, Numpy, Matplotlib, Seaborn, Plotly
-- Technologies/Frameworks: **Linux**, **.NET**, **Apptainer/Singularity/Docker**, Version Control, .NET, CI/CD, Scrum/Agile, Cloud Computing (AWS & Azure), Distributed Computing, Neo4j, Node.js, JDBC, MongoDB, PostgreSQL
+- Programming Languages: **Python**, **C++**, LaTeX, SQL, JavaScript
+- Tools/Packages: Scikit-learn, Git, TF/Keras, Pandas, Numpy, Matplotlib, Plotly
+- Technologies/Frameworks: Scrum/Agile, Cloud Computing (AWS & Azure), Node.js, MongoDB, PostgreSQL
 
 ## Awards
 
