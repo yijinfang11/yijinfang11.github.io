@@ -7,13 +7,13 @@
 
 # Site Settings
 locale: "en-US"
-title: "Sicong's Page"
+title: "Yijin Fang's Page"
 title_separator: "-"
-name: &name "Sicong Huang"
-description: &description "PhD Student at TAMU"
-url: https://innoversa.github.io/innoversa # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name: &name "Yijin Fang"
+description: &description "Master Student at TAMU"
+url: https://yijinfang11.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "Innoversa/innoversa"
+repository: "yijinfang11/yijinfang11"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
@@ -78,14 +78,14 @@ analytics:
 
 # Site Author
 author:
-  name: "Sicong Huang"
-  avatar: "sicong_profile_pic.jpg"
-  bio: "PhD Student at TAMU, ML for healthcare researcher"
-  location: "Houston, TX"
+  name: "Yijin Fang"
+  avatar:
+  bio: "Master Student at TAMU, ML for healthcare researcher"
+  location: "College Station, TX"
   employer:
   pubmed:
-  googlescholar: "https://scholar.google.com/citations?hl=en&user=HtWJoOsAAAAJ"
-  email: "siconghuang<at>tamu.edu"
+  googlescholar:
+  email: "yijinfang<at>tamu.edu"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
@@ -94,14 +94,14 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "Innoversa"
+  github: ""
   google_plus:
   keybase:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin: "sicong-huang-603462171"
-  orcid: "https://orcid.org/0009-0009-3596-5244"
+  linkedin: "yijinfang"
+  orcid:
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
