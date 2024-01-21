@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
 
   # - title: "CNM"
   #   url: /cnm/
@@ -27,8 +27,8 @@ main:
   # - title: "Accessible Computing Assignments"
   #   url: /accessible-computing/
 
-  - title: "Cheatsheet"
-    url: /cheatsheet/
+  # - title: "Cheatsheet"
+  #   url: /cheatsheet/
 
   # - title: "digital fabrication"
   #   url: /digitfab/
