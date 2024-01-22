@@ -43,14 +43,36 @@ dasdasdasdasd
 - Bachelor of Science (BS) in **Computer Science**: 2018-2022
   - Texas A&M University
   - Magna Cum Laude
-  - gpa: 3.76
+  - GPA: 3.76
 
 ## Project
 
 - **TripAgvisor**：Ruby on Rails, JavaScript -- Spring 2023
+<details>
+<summary> TripAgvisor </summary>
+  - A bespoke application catering to Texas A\&M University (TAMU) students engaged in international study programs.
+  - Empowered users to contribute firsthand reviews, insightful tips, and captivating visuals of their travel experiences.
+  - Cultivated a dynamic platform fostering camaraderie among students.
+  - Aiding informed decision-making for prospective participants.
+</details>
+
+
 - **HandCI**： JavaScript, Python -- Fall 2022
+  - An innovative hand-computer interaction system accessible through web browsers.
+  - Engineered with an intuitive UI for seamless usage without installation.
+  - Leveraged deep learning models to detect and interpret hand poses from video input, enabling users to write in the air.
+  - Can capture and convert handwritten strokes into digital sketches, allow sketch-to-character conversions.
+
 - **Pyreader**：Typescript, Python -- Spring 2022
+  - Visual Studio Code Extension focused on enhancing accessibility for Blind and Visually Impaired Python programmers.
+  - Developed custom python parser and converted to accessible HTML format for navigation and code comprehension.
+  - Successfully published and made available for download on the VSCode Extension Marketplace.
+
 - **The Hub**: JavaScript, NodeJS -- Fall 2020
+  - Designed an integrated API enabling users to connect multiple social media platforms (Facebook, Twitter, Reddit, etc).
+  - Developed a centralized "Hub Account" that streamlines posting across various social media networks.
+  - Allow access and manage all connected accounts through the Hub.
+  - Simplifying posting processes by allowing simultaneous posting across multiple platforms from a single interface.
 
 ## Work Experience
 
