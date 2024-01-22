@@ -48,14 +48,10 @@ dasdasdasdasd
 ## Project
 
 - **TripAgvisor**：Ruby on Rails, JavaScript -- Spring 2023
-<details>
-<summary> TripAgvisor </summary>
   - A bespoke application catering to Texas A\&M University (TAMU) students engaged in international study programs.
   - Empowered users to contribute firsthand reviews, insightful tips, and captivating visuals of their travel experiences.
   - Cultivated a dynamic platform fostering camaraderie among students.
   - Aiding informed decision-making for prospective participants.
-</details>
-
 
 - **HandCI**： JavaScript, Python -- Fall 2022
   - An innovative hand-computer interaction system accessible through web browsers.
