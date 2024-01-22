@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yijin Fang
+I'm Yijin Fang, I am a second year Master Student in Texas A&M University, I'm currently seeking job opportunities in Software Engineering, Data Science.
 
 ## Table of Contents
 
@@ -20,10 +20,9 @@ I'm Yijin Fang
 - [Work Experience](#work-experience)
 - [Skills](#skills)
 - [Awards](#awards)
-- [Thank You](#thank-you)
 
 <details>
-<summary> ## About Me </summary>
+<summary> **TripAgvisor** </summary>
 
 dasdasdasdasd
 </details>
@@ -48,17 +47,22 @@ dasdasdasdasd
 
 ## Project
 
+- **TripAgvisor**：Ruby on Rails, JavaScript -- Spring 2023
+- **HandCI**： JavaScript, Python -- Fall 2022
+- **Pyreader**：Typescript, Python -- Spring 2022
+- **The Hub**: JavaScript, NodeJS -- Fall 2020
+
 ## Work Experience
 
 - **Student Technician**: August 2022 - May 2023
   - Texas A&M University
-  - CSCE 222
-  - CSCE 314
+  - CSCE 222 Discrete Structures for Computing: Help with grading.
+  - CSCE 314 Programming Languages: Help with grading.
 
 - **Teacher Asistant**: August 2023 - May 2024
   - Texas A&M University
-  - CSCE 222
-  - CSCE 482
+  - CSCE 222 Discrete Structures for Computing: Answer Questions, Grading.
+  - CSCE 482 SR Capstone Design: Solve Students' Problems, Mentor Students Finish Project.
 
 ## Skills
 
@@ -68,5 +72,6 @@ dasdasdasdasd
 
 ## Awards
 
+- Texas A&M College of Engineering Dean's Honor Roll --- 2019 fall
+- Texas A&M College of Engineering Dean's Honor Roll --- 2020 fall
 
-## Thank You
