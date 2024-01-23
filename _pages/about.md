@@ -27,6 +27,7 @@ I'm Yijin Fang, I am a second year Master Student in Texas A&M University, I'm c
 - Beyond academia, I'm deeply enthusiastic about web development and data science. I thrive on challenges, and my hardworking nature is evident in my dedication to mastering the intricacies of these domains. I love bringing ideas to life through code, whether it's crafting seamless web experiences or uncovering insights from data.
 
 - Currently, I am actively seeking opportunities in the realm of Software Engineering, where I can apply my skills and passion for problem-solving. Whether it's developing robust web applications or diving into the world of data analytics, I'm excited about the prospect of contributing to cutting-edge projects that push the boundaries of technology.
+
 ## Contact
 
 - LinkedIn: [Yijin Fang](https://www.linkedin.com/in/yijinfang/)
