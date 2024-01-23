@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yijin Fang, I am a second year Master Student in Texas A&M University, I'm currently seeking job opportunities in **Software Engineering**, **Data Science** related job.
+- I'm Yijin Fang, I am a second year Master Student in Texas A&M University, I'm currently seeking job opportunities in **Software Engineering**, **Data Science** related job.
 
 ## Table of Contents
 
@@ -62,7 +62,7 @@ I'm Yijin Fang, I am a second year Master Student in Texas A&M University, I'm c
 - **Pyreader：Typescript, Python**  -- Spring 2022
   - Visual Studio Code Extension focused on enhancing accessibility for Blind and Visually Impaired Python programmers.
   - Developed custom python parser and converted to accessible HTML format for navigation and code comprehension.
-  - Successfully published and made available for download on the VSCode Extension Marketplace.
+  - Successfully published and made available for download on the VSCode Extension [Marketplace](https://marketplace.visualstudio.com/items?itemName=Data-Pirates.pyreader).
 
 - **The Hub: JavaScript, NodeJS**  -- Fall 2020
   - Designed an integrated API enabling users to connect multiple social media platforms (Facebook, Twitter, Reddit, etc).
