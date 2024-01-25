@@ -26,7 +26,7 @@ redirect_from:
 
 - Beyond academia, I'm deeply enthusiastic about web development and data science. I thrive on challenges, and my hardworking nature is evident in my dedication to mastering the intricacies of these domains. I love bringing ideas to life through code, whether it's crafting seamless web experiences or uncovering insights from data.
 
-- Currently, I am actively seeking opportunities in the realm of Software Engineering, where I can apply my skills and passion for problem-solving. Whether it's developing robust web applications or diving into the world of data analytics, I'm excited about the prospect of contributing to cutting-edge projects that push the boundaries of technology.
+- Currently, I am actively seeking opportunities in the realm of Software Engineering where I can apply my skills and passion. Whether it's developing robust web applications or diving into the world of data analytics, I'm excited about using the knowledge I used to solve real-world problems.
 
 ## Contact
 
@@ -44,6 +44,10 @@ redirect_from:
   - Texas A&M University
   - Magna Cum Laude
   - GPA: 3.76
+
+- High School: 2015-2018
+  - Bellarie High Shcool (Houston)
+  - GPA: 4.33 out of 5
 
 ## Project
 
