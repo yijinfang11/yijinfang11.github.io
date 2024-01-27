@@ -1,13 +1,3 @@
----
-permalink: /
-title: "About Me"
-excerpt: "About me"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
-
 - I'm Yijin Fang, I am a second year Master Student in Texas A&M University, I'm currently seeking job opportunities in **Software Engineering**, **Data Science** related job.
 
 ## Table of Contents
