@@ -22,11 +22,11 @@ redirect_from:
 - [Awards](#awards)
 
 ## About Me
-- Welcome to my corner of the digital world! I'm Yijin Fang, and I'm thrilled to share a bit about myself. My academic journey has been an exhilarating exploration of Machine Learning and Data Science. From the captivating experiences in my undergraduate classes to delving into advanced methodologies during research, my fascination with the potential of these fields has grown exponentially.
+- I'm Yijin Fang, a second-year master student at Texas A&M University. During my studies, , I was passionate about researching data analysis and machine learning related fields. These studies have equipped me with a rigorous and meticulous personality, gradually shaping me into an organized and purposeful individual.
 
-- Beyond academia, I'm deeply enthusiastic about web development and data science. I thrive on challenges, and my hardworking nature is evident in my dedication to mastering the intricacies of these domains. I love bringing ideas to life through code, whether it's crafting seamless web experiences or uncovering insights from data.
+- In addition to my academic pursuits, I have a keen interest in web development. I believe web development has infinite potential, as it can bring to life the worlds we envision in our minds. This aspect of technology fascinates me greatly.
 
-- Currently, I am actively seeking opportunities in the realm of Software Engineering where I can apply my skills and passion. Whether it's developing robust web applications or diving into the world of data analytics, I'm excited about using the knowledge I used to solve real-world problems.
+- Currently, I am actively seeking opportunities in software engineering, data analysis, and web development. I aim to apply the knowledge and skills I have acquired to solve real-world problems.
 
 ## Contact
 
