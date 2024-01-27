@@ -22,7 +22,7 @@ redirect_from:
 - [Awards](#awards)
 
 ## About Me
-- I'm Yijin Fang, a second-year master student at Texas A&M University. During my studies, , I was passionate about researching data analysis and machine learning related fields. These studies have equipped me with a rigorous and meticulous personality, gradually shaping me into an organized and purposeful individual.
+- I'm Yijin Fang, a second-year master student at Texas A&M University. During my studies, , I was passionate in studying data analysis and machine learning related knowledge. These studies have equipped me with a rigorous and meticulous personality, gradually shaping me into an organized and purposeful individual.
 
 - In addition to my academic pursuits, I have a keen interest in web development. I believe web development has infinite potential, as it can bring to life the worlds we envision in our minds. This aspect of technology fascinates me greatly.
 
