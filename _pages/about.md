@@ -26,7 +26,7 @@ redirect_from:
 
 - In addition to my academic pursuits, I have a keen interest in web development. I believe web development has infinite potential, as it can bring to life the worlds we envision in our minds. This aspect of technology fascinates me greatly.
 
-- Currently, I am actively seeking opportunities in software engineering, data analysis, and web development. I aim to apply the knowledge and skills I have acquired to solve real-world problems.
+- Currently, I am actively seeking opportunities in software engineering, data analysis, and web development. I wish to use the knowledge and skills I have learned to solve real-life problems and make our lives better.
 
 ## Contact
 
