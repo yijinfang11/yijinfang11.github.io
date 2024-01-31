@@ -76,15 +76,15 @@ redirect_from:
 
 ## Work Experience
 
-- **Student Technician**: August 2022 - May 2023
-  - Texas A&M University
-  - CSCE 222 Discrete Structures for Computing: Help with grading.
-  - CSCE 314 Programming Languages: Help with grading.
-
 - **Teacher Asistant**: August 2023 - May 2024
   - Texas A&M University
   - CSCE 222 Discrete Structures for Computing: Answer Questions, Grading.
   - CSCE 482 SR Capstone Design: Solve Students' Problems, Mentor Students Finish Project.
+
+- **Student Technician**: August 2022 - May 2023
+  - Texas A&M University
+  - CSCE 222 Discrete Structures for Computing: Help with grading.
+  - CSCE 314 Programming Languages: Help with grading.
 
 ## Skills
 
